@@ -1,2 +1,5 @@
 # 100_days_game
-Repository for "100 Days" game files.
+
+Files for alpha version of "100 days game".
+
+Assets from opengameart.com (user "Sketchy Logic")
